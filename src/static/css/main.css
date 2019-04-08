@@ -1,0 +1,31 @@
+.button1 {
+  float: left;
+  text-align: center;
+  padding: 30px;
+  margin-top: 200px;
+  margin-left: 400px;
+  border: 2px solid #0d4399;
+  border-radius: 50px;
+  font-size: 25px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+.button2 {
+  float: right;
+  text-align: center;
+  padding: 30px;
+  margin-top: 200px;
+  margin-right: 400px;
+  border: 2px solid #0d4399;
+  border-radius: 50px;
+  font-size: 25px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+.button1:hover,
+.button2:hover {
+  background-color: #0d4399;
+  color: #fff;
+}
