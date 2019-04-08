@@ -2,10 +2,11 @@ import "../../static/css/main.css";
 
 import React, { Component } from "react";
 import { Container, Button } from "reactstrap";
+import { meme_generator } from "../../config/routes";
 
 class Main extends Component {
   handleClick(route) {
-    this.props.history.push(route);
+    this.props.history.push(`/${meme_generator}${route}`);
   }
   render() {
     return (
