@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/meme_generator/static/js/runtime~main.d0361cdf.js"
   },
   {
-    "revision": "37f98341816b94b73a70",
-    "url": "/meme_generator/static/js/main.98dc80ec.chunk.js"
+    "revision": "897f84e3ef645de0ba4a",
+    "url": "/meme_generator/static/js/main.0a086e21.chunk.js"
   },
   {
     "revision": "b9016aa2a272f8d6d0f9",
     "url": "/meme_generator/static/js/2.ff67ef29.chunk.js"
   },
   {
-    "revision": "37f98341816b94b73a70",
+    "revision": "897f84e3ef645de0ba4a",
     "url": "/meme_generator/static/css/main.9d8df2ba.chunk.css"
   },
   {
-    "revision": "020e6995b0f611354168f1d8ed999322",
+    "revision": "3e179a077f3f047b5ca98f7e1ee7b455",
     "url": "/meme_generator/index.html"
   }
 ];
